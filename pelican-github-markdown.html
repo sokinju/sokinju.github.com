@@ -4,7 +4,7 @@
         <title>markdown + pelican + github = Perfect blog platform</title>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="./theme/css/main.css" type="text/css" />
-        <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="see the world ATOM Feed" />
+        <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="lost ATOM Feed" />
         
 
         <!--[if IE]>
@@ -22,12 +22,14 @@
 <body id="index" class="home">
 
         <header id="banner" class="body">
-                <h1><a href=".">see the world </a></h1>
+                <h1><a href=".">lost </a></h1>
                 <nav><ul>
                 
                 
                 
                 
+                
+                    <li ><a href="./category/poetry.html">poetry</a></li>
                 
                     <li class="active"><a href="./category/技术.html">技术</a></li>
                 
@@ -56,6 +58,19 @@
 </footer><!-- /.post-info -->
         
         </div><!-- /.entry-content -->
+        
+        <div class="comments">
+        <h2>Comments !</h2>
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+               var disqus_identifier = "pelican-github-markdown.html";
+               (function() {
+               var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+               dsq.src = 'http://sokinju.disqus.com/embed.js';
+               (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+              })();
+            </script>
+        </div>
         
 
 </article>
@@ -103,6 +118,16 @@
 
 
 
+
+<script type="text/javascript">
+    var disqus_shortname = 'sokinju';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
 
 </body>
 </html>
