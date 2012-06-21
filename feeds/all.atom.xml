@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>lost</title><link href="/" rel="alternate"></link><link href="//feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2012-06-20T00:00:00+02:00</updated><entry><title>你是人间的四月天</title><link href="//april.html" rel="alternate"></link><updated>2012-06-20T00:00:00+02:00</updated><author><name>soki</name></author><id>//april.html</id><summary type="html"></summary><category term="林徽因"></category></entry><entry><title>markdown + pelican + github = Perfect blog platform</title><link href="//pelican-github-markdown.html" rel="alternate"></link><updated>2012-06-09T00:00:00+02:00</updated><author><name>soki</name></author><id>//pelican-github-markdown.html</id><summary type="html"></summary><category term="markdown"></category><category term="pelican"></category><category term="github"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>lost</title><link href="/" rel="alternate"></link><link href="//feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2012-06-20T00:00:00+02:00</updated><entry><title>你是人间的四月天</title><link href="//april.html" rel="alternate"></link><updated>2012-06-20T00:00:00+02:00</updated><author><name>soki</name></author><id>//april.html</id><summary type="html">&lt;p&gt;我说你是人间的四月天，&lt;/p&gt;
+&lt;p&gt;笑音点亮了四面风，&lt;/p&gt;
+&lt;p&gt;轻灵在春的光艳中交舞着变，&lt;/p&gt;
+&lt;p&gt;你是四月早天里的云烟，&lt;/p&gt;
+&lt;p&gt;黄昏吹着风的软，&lt;/p&gt;
+&lt;p&gt;星子在无意中闪，&lt;/p&gt;
+&lt;p&gt;细雨点洒在花前。&lt;/p&gt;
+&lt;p&gt;那轻，那聘婷，你是，&lt;/p&gt;
+&lt;p&gt;鲜研&lt;/p&gt;
+&lt;p&gt;百花的冠冕你戴着&lt;/p&gt;
+&lt;p&gt;你是天真，庄严，&lt;/p&gt;
+&lt;p&gt;你是夜夜的月圆&lt;/p&gt;
+&lt;p&gt;雪花后那篇鹅黄，你像；&lt;/p&gt;
+&lt;p&gt;新鲜初放芽的绿，你是；&lt;/p&gt;
+&lt;p&gt;柔嫩喜悦，&lt;/p&gt;
+&lt;p&gt;水光浮动着你梦中期待的白莲&lt;/p&gt;
+&lt;p&gt;你是一树一树的花开&lt;/p&gt;
+&lt;p&gt;是燕在梁间呢喃&lt;/p&gt;
+&lt;p&gt;——你是爱，是暖，是希望&lt;/p&gt;
+&lt;p&gt;你是人间的四月天&lt;/p&gt;</summary><category term="林徽因"></category></entry><entry><title>markdown + pelican + github = Perfect blog platform</title><link href="//pelican-github-markdown.html" rel="alternate"></link><updated>2012-06-09T00:00:00+02:00</updated><author><name>soki</name></author><id>//pelican-github-markdown.html</id><summary type="html"></summary><category term="markdown"></category><category term="pelican"></category><category term="github"></category></entry></feed>
