@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>lost</title><link href="/" rel="alternate"></link><link href="//feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2012-06-20T00:00:00+02:00</updated><entry><title>你是人间的四月天</title><link href="//april.html" rel="alternate"></link><updated>2012-06-20T00:00:00+02:00</updated><author><name>soki</name></author><id>//april.html</id><summary type="html">&lt;p&gt;我说你是人间的四月天，&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>lost</title><link href="/" rel="alternate"></link><link href="//feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2012-06-21T14:01:37+02:00</updated><entry><title>萤火虫之墓</title><link href="//fireflies.html" rel="alternate"></link><updated>2012-06-21T14:01:37+02:00</updated><author><name>soki</name></author><id>//fireflies.html</id><summary type="html">&lt;p&gt;前几天看了《萤火虫之墓》&lt;/p&gt;
+&lt;p&gt;title:萤火虫之森
+slug:firefles 
+category:点滴
+data:2012-06-21
+tags:萤火之森
+前几天看了《萤火之森》&lt;/p&gt;</summary><category term="Grave of the fireflies"></category></entry><entry><title>从win7连接ubuntu</title><link href="//win7-ubuntu.html" rel="alternate"></link><updated>2012-06-21T00:00:00+02:00</updated><author><name>soki</name></author><id>//win7-ubuntu.html</id><summary type="html">&lt;p&gt;搞了一个下午，试过vnc 和 XManager，还是这个最简单好用。嘻嘻~~~&lt;/p&gt;
+&lt;p&gt;首先，我使用的win7，ubuntu10.10的操作系统。下面要从win7远程连接到ubuntu，步骤如下：&lt;/p&gt;
+&lt;p&gt;ubuntu下：
+1、Win7远程连接上Ubuntu，所使用的协议是rdp，所以我们要装这个东西。打开终端：&lt;/p&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt; &lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;apt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;xrdp&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2、装上xrdp之后，再：&lt;/p&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt; &lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;apt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;vnc4server&lt;/span&gt; &lt;span class="n"&gt;tightvncserver&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;3、都装上了之后，在“System Setting—&amp;gt;Remote Desktop”那里，设置好,允许远程桌面，允许控制，等等。&lt;/p&gt;</summary><category term="ubuntu，win7，远程桌面链接"></category></entry><entry><title>你是人间的四月天</title><link href="//april.html" rel="alternate"></link><updated>2012-06-20T00:00:00+02:00</updated><author><name>soki</name></author><id>//april.html</id><summary type="html">&lt;p&gt;我说你是人间的四月天，&lt;/p&gt;
 &lt;p&gt;笑音点亮了四面风，&lt;/p&gt;
 &lt;p&gt;轻灵在春的光艳中交舞着变，&lt;/p&gt;
 &lt;p&gt;你是四月早天里的云烟，&lt;/p&gt;
@@ -18,4 +37,4 @@
 &lt;p&gt;你是一树一树的花开&lt;/p&gt;
 &lt;p&gt;是燕在梁间呢喃&lt;/p&gt;
 &lt;p&gt;——你是爱，是暖，是希望&lt;/p&gt;
-&lt;p&gt;你是人间的四月天&lt;/p&gt;</summary><category term="林徽因"></category></entry><entry><title>markdown + pelican + github = Perfect blog platform</title><link href="//pelican-github-markdown.html" rel="alternate"></link><updated>2012-06-09T00:00:00+02:00</updated><author><name>soki</name></author><id>//pelican-github-markdown.html</id><summary type="html"></summary><category term="markdown"></category><category term="pelican"></category><category term="github"></category></entry></feed>
+&lt;p&gt;你是人间的四月天&lt;/p&gt;</summary><category term="林徽因"></category></entry></feed>
