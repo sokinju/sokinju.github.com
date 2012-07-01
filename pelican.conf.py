@@ -12,9 +12,7 @@ DEFAULT_LANG='en'
 # Blogroll
 LINKS =  (
     ('xieyu', 'http://xieyu.github.com'),
-    ('weiweiwang', 'http://weiweiwang.github.com/'),
-    ('Jinja2', 'http://jinja.pocoo.org'),
-    ('You can modify those links in your config file', '#')
+    ('weiweiwang', 'http://weiweiwang.github.com/')
          )
 
 # Social widget
